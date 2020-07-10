@@ -1,0 +1,103 @@
+SP_CODE,FAMILY,NAME,LIFESPAN,TYPE,NATIVE,PollinatorResource,BEE,BUTTERFLY,FLY,MOTHS,BEETLES,Notes
+ACHMIL,Asteraceae,Achillea millefolium,P,F,Y,Y,Y,Y,N,N,Y,"beetles - observed, "
+ACMBRA,Fabaceae,Acmispon brachycarpus,A,F,Y,Y,Y,N,N,N,N,"https://www.wildflower.org/plants/result.php?id_plant=LOHU2, http://xerces.org/pollinator-conservation/"
+AGOGRA,Asteraceae,Agoseris grandiflora,P,F,Y,Y,Y,Y,N,N,Y,ANP XERCES
+AIRCAR,Poaceae,Aira caryophyllea,A,G,N,N,N,N,N,N,N,
+AMSINT,Boraginaceae,Amsinckia menziesii,A,F,Y,Y,Y,N,N,N,N,"bees- http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf, https://www.wildflower.org/plants/result.php?id_plant=AMMEI2"
+ANCFIL,Asteraceae,Ancistrocarphus filagineus,A,F,Y,N,N,N,N,N,N,
+AVEBAR,Poaceae,Avena barbata,A,G,N,N,N,N,N,N,N,
+BRA_SP,Brassicaceae,BRASSICACEAE SPECIES,A,F,NA,N,N,N,N,N,N,
+BRADIS,Poaceae,Brachypodium distachyon,A,G,N,N,N,N,N,N,N,
+BRIMAX,Poaceae,Briza maxima,A,G,N,N,N,N,N,N,N,
+BROCAR,Poaceae,Bromus carinatus,P,G,Y,N,N,N,N,N,N,
+BRODIA,Poaceae,Bromus diandrus,A,G,N,N,N,N,N,N,N,
+BROELE,Poaceae,Brodiaea elegans,P,F,Y,Y,Y,N,N,N,N,ANP XERCES
+BROHOR,Poaceae,Bromus hordeaceus,A,G,N,N,N,N,N,N,N,
+BROMAD,Poaceae,Bromus madritensis,A,G,N,N,N,N,N,N,N,
+CALCIL,Montiaceae,Calandrinia ciliata,A,F,Y,Y,Y,N,N,N,N,"bees, https://www.wildflower.org/plants/result.php?id_plant=CACI2"
+CALCOL,Convolvulaceae,Calystegia collina,P,F,Y,Y,Y,N,N,Y,N,"BEES, WOLF et al. 2000 AJB http://www.amjbot.org/content/87/8/1138.full"
+CALLUT,Liliaceae,Calochortus luteus,P,F,Y,Y,Y,Y,Y,N,Y,"Calochortus - Bees, butterflies, beetles http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+CALVES,Liliaceae,Calochortus vestae,P,F,Y,Y,Y,Y,N,N,Y,"Calochortus - Bees, butterflies, beetles http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+CARCAL,Brassicaceae,Cardamine californica,P,F,Y,Y,N,N,N,N,N,INSECT POLLINATED Orford et al 2016 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4996327/
+CARPYC,Asteraceae,Carduus pycnocephalus,A,F,N,Y,Y,Y,Y,N,N,"bees observed, "
+CASATT,Orobanchaceae,Castilleja attenuata,A,F,Y,Y,Y,N,N,N,N,castillaja sp. - bee http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf
+CENFIT,Asteraceae,Centromadia fitchii,A,F,Y,Y,Y,N,N,N,N,BEES USFWS - https://www.fs.fed.us/psw/publications/beyers/psw_2010_beyers(montalvo)_NativePlantRecomm.Deinandra.fasciculata.pdf
+CENSOL,Asteraceae,Centaurea solstitialis,A,F,N,Y,Y,N,N,N,N,BEES PLAY AN INPORTANT ROLE IN POLLINATION - GLOBAL INVASIVE SPECIES DATABASE http://www.iucngisd.org/gisd/species.php?sc=263
+CERGLO,Caryophyllaceae,Cerastium glomeratum,A,F,N,N,N,N,N,N,N,SELFING
+CLAGYP,Montiaceae,Claytonia gypsophiloides,A,F,Y,Y,Y,N,Y,N,N,"syrphid flu observed, "
+CLAPER,Montiaceae,Claytonia perfoliata,A,F,Y,Y,N,N,Y,N,N,"FLIES, SELF http://www.pfaf.org/user/Plant.aspx?LatinName=Claytonia+perfoliata"
+CLAPUR,Onagraceae,Clarkia purpurea,A,F,Y,Y,Y,N,N,Y,N,"bees, moths - http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+CONARV,Convolvulaceae,Convolvulus arvensis,P,F,N,Y,Y,N,Y,N,N,BEES & FLIES http://www.wildflowers-and-weeds.com/weedsinfo/Convolvulus_arvensis.htm
+CROSET,Euphorbiaceae,Croton setiger,P,F,Y,N,N,N,N,N,N,
+CYNECH,Poaceae,Cynosurus echinatus,A,G,N,N,N,N,N,N,N,
+DANCAL,Poaceae,Danthonia californica,P,G,Y,N,N,N,N,N,N,
+DAUPUS,Apiaceae,Daucus pusillus,A,F,Y,N,N,N,N,N,N,
+DICCAP,Themidaceae,Dichelostemma capitatum,P,F,Y,Y,Y,Y,Y,N,Y,"bee, bombyliid, butterfly, beetles - observed ; bees, butterfly - http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+DICCON,Themidaceae,Dichelostemma congestum,P,F,Y,Y,Y,Y,Y,N,Y,
+ELYCAP,Poaceae,Elymus caput-medusae,A,G,N,N,N,N,N,N,N,
+ELYELY,Poaceae,Elymus elymoides,P,G,Y,N,N,N,N,N,N,
+ELYGLA,Poaceae,Elymus glaucus,P,G,Y,N,N,N,N,N,N,
+ERIVIM,Polygonaceae,Eriogonum vimineum,A,F,Y,Y,Y,Y,N,N,N,"BEES, BUTTERFLIES AND OTHER POLLINATORS - https://www.calfloranursery.com/plants/eriogonum-vimineum"
+EROBOT,Geraniaceae,Erodium botrys,A,F,N,Y,Y,N,Y,N,N,"s&b flies, Bumb & honey bees - observed"
+EROCIC,Geraniaceae,Erodium cicutarium,A,F,N,Y,Y,Y,Y,Y,Y,"BEES, BEETLES, LEPIDOPTERA http://www.pfaf.org/user/Plant.aspx?LatinName=Erodium+cicutarium"
+ESCCAL,Papaveraceae,Eschscholzia californica,P,F,Y,Y,Y,N,Y,N,N,syrphid fly observed; bees - https://www.wildflower.org/plants/result.php?id_plant=ESCA2
+FESBRO,Poaceae,Festuca bromoides,A,G,N,N,N,N,N,N,N,
+FESPER,Poaceae,Festuca perennis,A,G,N,N,N,N,N,N,N,
+GAL_SP,Rubiaceae,Galium species,A,F,N,N,N,N,N,N,N,
+GERDIS,Geraniaceae,Geranium dissectum,A,F,N,N,N,N,N,N,N,Pollination & floral ecology (PFE) Willmer
+GERMOL,Geraniaceae,Geranium molle,A,F,N,N,N,N,N,N,N,Pollination & floral ecology (PFE) Willmer
+GILTRI,Polemoniaceae,Gilia tricolor,A,F,Y,Y,Y,N,Y,N,N,"syrphid fly observed, bee- http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+HEDCRE,Asteraceae,Hedypnois cretica,A,F,N,Y,Y,Y,N,N,N,GUESSINGÄ
+HEMCON,Asteraceae,Hemizonia congesta,A,F,Y,Y,Y,N,Y,N,N,"Common visitors are small bees and various fly species (Attracting Native Pollinators book [""ANP"", xerces)"
+HORMUR,Poaceae,Hordeum murinum,A,G,N,N,N,N,N,N,N,
+HYPPER,Hypericaceae,Hypericum perforatum,P,F,N,Y,Y,N,Y,N,N,http://www.balkep.org/hypericum-perforatum.html
+LACSER,Asteraceae,Lactuca serriola,A,F,N,Y,Y,N,N,N,N,ANG xerces
+LASCAL,Asteraceae,Lasthenia californica,A,F,Y,Y,Y,Y,N,Y,N,"butterflies, bees, moths observed : butterflies, bees - http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+LASGRA,Asteraceae,Lasthenia gracilis,A,F,Y,Y,Y,Y,N,Y,N,"butterflies, bees, moths observed : butterflies, bees - http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+LATANG,Fabaceae,Lathyrus angulatus,A,F,N,Y,Y,N,N,N,N,
+LEPJEP,Polemoniaceae,Leptosiphon jepsonii,A,F,Y,Y,N,N,N,N,N,
+LEPLAT,Polemoniaceae,Leptosiphon latisectus,A,F,Y,Y,N,N,N,N,N,
+LIGAST,Asteraceae,Hypochaeris radicata,A,F,N,Y,Y,N,N,N,N,
+LINBIE,Linaceae,Linum bienne,A,F,N,Y,Y,N,Y,N,N,"bees, flies http://www.pfaf.org/USER/Plant.aspx?LatinName=Linum+bienne"
+LOGFIL,Asteraceae,Logfia filaginoides,A,F,Y,N,N,N,N,N,N,
+LOGGAL,Asteraceae,Logfia gallica,A,F,N,N,N,N,N,N,N,
+LOMUTR,Apiaceae,Lomatium utriculatum,P,F,Y,Y,Y,N,N,N,N,"BEES, https://www.wildflower.org/plants/result.php?id_plant=LOUT, XERCES"
+LUPBIC,Fabaceae,Lupinus bicolor,A,F,Y,Y,Y,N,Y,N,N,"bumb, honey bees & bombyliid - observed, bees - https://www.wildflower.org/plants/result.php?id_plant=LUBI, ANP xerces"
+LUZCOM,Juncaceae,Luzula comosa,P,F,Y,N,N,N,N,N,N,
+LYSARV,Primulaceae,Lysimachia arvensis,A,F,N,Y,N,N,N,N,N,"INSECTS, AND SELF http://www.pfaf.org/user/Plant.aspx?LatinName=Anagallis+arvensis"
+MICCAL,Asteraceae,Micropus californicus,A,F,Y,N,N,N,N,N,N,
+MICDOU,Asteraceae,Microseris douglasii,A,F,Y,Y,Y,N,N,N,N,
+MICGRA,Polemoniaceae,Microsteris gracilis,A,F,Y,Y,Y,N,N,N,N,
+MICRANCAL,Saxifragaceae,Micranthes californica,P,F,Y,N,N,N,N,N,N,"UNK self pollinating , OTHER SPECIES LISTED AS FLIES, BEES & BUTTERFLIES"
+NEMHET,Boraginaceae,Nemophila heterophylla,A,F,Y,Y,Y,N,N,N,N,"nem menz = bees, http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+PETDUB,Caryophyllaceae,Petrorhagia dubia,A,F,N,N,N,N,N,N,N,UNKÄ
+PHAAQU,Poaceae,Phalaris aquatica,P,G,N,N,N,N,N,N,N,
+PLAERE,Plantaginaceae,Plantago erecta,A,F,Y,N,N,N,N,N,N,
+PLATEN,Boraginaceae,Plagiobothrys tenellus,A,F,Y,Y,N,N,N,Y,N,
+PLECON,Valerianaceae,Plectritis congesta,A,F,Y,N,N,N,N,N,N,
+Poaceae,Poaceae,"unk, unflowering Grass species",A,G,N,N,N,N,N,N,N,
+PRIHEN,Primulaceae,Primula hendersonii,P,F,Y,Y,Y,N,N,N,N,"buzz pollinated, http://pacificbulbsociety.org/pbswiki/index.php/Dodecatheon"
+RANOCC,Ranunculaceae,Ranunculus occidentalis,P,F,Y,Y,N,N,Y,N,Y,s & B flies and beetles - observed
+RIGLEP,Asteraceae,Rigiopappus leptocladus,A,F,Y,N,N,N,N,N,N,generally self pollinated
+ROMROS,Iridaceae,Romulea rosea,P,F,N,Y,Y,N,N,N,N,Goldblatt et al 2002 http://sciencepress.mnhn.fr/sites/default/files/articles/pdf/a2002n2a12.pdf
+RUMACE,Polygonaceae,Rumex acetosella,P,F,N,N,N,N,N,N,N,
+SANBIP,Apiaceae,Sanicula bipinnatifida,P,F,Y,Y,N,N,N,N,N,generalist insects https://www.registrelep-sararegistry.gc.ca/species/speciesDetails_e.cfm?sid=677
+SHEARV,Rubiaceae,Sherardia arvensis,A,F,N,Y,N,N,Y,N,N,flies - http://www.pfaf.org/user/Plant.aspx?LatinName=Sherardia+arvensis
+SIDMAL,Malvaceae,Sidalcea malviflora subsp. laciniata,P,F,Y,Y,N,N,N,N,N,"""Pollinated by insects"" http://www.pfaf.org/USER/Plant.aspx?LatinName=Sidalcea+malviflora"
+SILGAL,Caryophyllaceae,Silene gallica,A,F,N,Y,Y,Y,N,Y,N,"bees, lepidoptera - ""plats for a future"" http://pfaf.org/user/Plant.aspx?LatinName=Silene+gallica"
+SISBEL,Iridaceae,Sisyrinchium bellum,P,F,Y,Y,Y,N,N,N,N,"solitary bee observed, bees http://www.pollinator.org/PDFs/Calif.DrySteppe.rx2.pdf"
+STIPUL,Poaceae,Stipa pulchra,P,G,Y,N,N,N,N,N,N,
+TORARV,Apiaceae,Torilis arvensis,A,F,N,N,N,N,N,N,N,"BEE VISITATION, but not much... Gupta, Hamal, Koul 1985 (https://link.springer.com/content/pdf/10.1007/BF03053258.pdf);  ""NATIVE POLLINATORS DO VISIT"" https://texasinvasives.org/plant_database/detail.php?symbol=TOAR"
+TRIALB,Fabaceae,Trifolium albopurpureum,A,F,Y,Y,Y,N,N,N,N,ANP XERCES
+TRIANG,Fabaceae,Trifolium angustifolium,A,F,N,Y,Y,N,N,N,N,ANP XERCES
+TRIBIF,Fabaceae,Trifolium bifidum,A,F,Y,Y,Y,N,N,N,N,ANP XERCES
+TRIDUB,Fabaceae,Trifolium dubium,A,F,N,Y,Y,N,N,N,N,ANP XERCES
+TRIHIR,Fabaceae,Trifolium hirtum,A,F,N,Y,Y,N,N,N,N,"Bees- observed, ANP XERCES"
+TRIMICCEP,Fabaceae,Trifolium microcephalum,A,F,Y,Y,Y,N,N,N,N,ANP XERCES
+TRIMICDON,Fabaceae,Trifolium microdon,A,F,Y,Y,Y,N,N,N,N,ANP XERCES
+TRIOLI,Fabaceae,Trifolium oliganthum,A,F,Y,Y,Y,N,N,N,N,ANP XERCES
+TRISUB,Fabaceae,Trifolium subterraneum,A,F,N,Y,Y,N,N,N,N,ANP XERCES
+TRIVAR,Fabaceae,Trifolium variegatum,A,F,Y,Y,Y,N,N,N,N,ANP XERCES
+TRIWIL,Fabaceae,Trifolium willdenovii,A,F,N,Y,Y,N,Y,N,N,"fly- observed, ANP XERCES"
+VICSAT,Fabaceae,Vicia sativa,A,F,N,Y,Y,N,N,N,N,ANP XERCES
+ZELMUE,Gentianaceae,Zeltnera muehlenbergii,A,F,Y,N,N,N,N,N,N,UNK
